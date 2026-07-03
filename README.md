@@ -1,4 +1,4 @@
-# EMM-Myon-News-Automation
+# Myon-News-Automation
 EMMのMyon 网站のNews自动化工具
 # Myon 自动化工具
 
